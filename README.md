@@ -1,0 +1,1 @@
+## Solution to some problems and examples of [Thinking Recursively with Java](https://www.amazon.com/dp/0471701467?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1)
